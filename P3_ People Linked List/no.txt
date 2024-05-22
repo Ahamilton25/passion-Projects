@@ -1,0 +1,17 @@
+add Judy Garland 68 169
+add Bert Lahr 74 182
+size
+add Roy Bolger 66 165
+add Jack Haley 70 172
+size
+printByHeight
+printByWeight
+search Judy Garland
+updateName Judy Garland Jill Garland
+updateHeight Jill Garland 71
+updateWeight Jill Garland 120
+printByHeight
+printByWeight
+remove Jill Garland
+printByHeight
+quit
