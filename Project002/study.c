@@ -1,5 +1,4 @@
-/* My name is Leonard Carpenter and this program will take user inputted information regarding how the user is doing in their studies.
-   Depending on what they answer for the series of questions, the program will either output "You need to study!" or "Do something fun"*/
+
 #include <stdio.h>
 #include <string.h>
 
